@@ -1,0 +1,12 @@
+numpy>=1.18.5
+opencv-python>=4.5.1
+scipy>=1.5.2
+matplotlib>=3.3.1
+
+# PyTorch for FlowNet
+torch>=1.7.1
+torchvision>=0.8.2
+
+tqdm>=4.50.0
+
+pillow>=8.0.1
